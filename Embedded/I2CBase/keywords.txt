@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For LedControl
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+I2CBase	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+I2CBase	            KEYWORD2
+begin	            KEYWORD2
+writeByte	        KEYWORD2
+writeRegister	    KEYWORD2
+readRegister		KEYWORD2
+writeRegisterMulti	KEYWORD2
+readRegisterMulti	KEYWORD2
+writeRegisterBit	KEYWORD2
+readRegisterBit		KEYWORD2
+getModuleAddress	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
