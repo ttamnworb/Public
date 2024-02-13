@@ -1,4 +1,9 @@
 
 *.db
-cplusplus/RefactorStringParser/.vs/RefactorStringParser/v17/.suo
-cplusplus/RefactorStringParser/.vs/RefactorStringParser/FileContentIndex/ab39d898-d37f-44dd-a5cc-aa4188db9189.vsidx
+*.vsidx
+.vs/
+Debug/
+Release/
+obj/
+bin/
+packages/

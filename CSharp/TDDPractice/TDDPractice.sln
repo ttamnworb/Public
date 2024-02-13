@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{7B0EBB90-C713-45BF-8B5C-602E208016DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTests", "FizzBuzzTests\FizzBuzzTests.csproj", "{32300715-769E-450B-ADED-C2D603BEC3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator", "StringCalculator\StringCalculator.csproj", "{141AD46A-4D6A-40EA-9845-109F5FA9F1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorTests", "StringCalculatorTests\StringCalculatorTests.csproj", "{81E2C9BA-C89A-4572-AAC1-0425EE4F34A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidation", "PasswordValidation\PasswordValidation.csproj", "{D12647E0-0512-445C-97F8-1E038E5D4B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidationTests", "PasswordValidationTests\PasswordValidationTests.csproj", "{E436F9D6-89D6-46E2-8779-C650561E4B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B0EBB90-C713-45BF-8B5C-602E208016DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0EBB90-C713-45BF-8B5C-602E208016DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0EBB90-C713-45BF-8B5C-602E208016DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0EBB90-C713-45BF-8B5C-602E208016DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32300715-769E-450B-ADED-C2D603BEC3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32300715-769E-450B-ADED-C2D603BEC3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32300715-769E-450B-ADED-C2D603BEC3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32300715-769E-450B-ADED-C2D603BEC3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141AD46A-4D6A-40EA-9845-109F5FA9F1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141AD46A-4D6A-40EA-9845-109F5FA9F1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141AD46A-4D6A-40EA-9845-109F5FA9F1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141AD46A-4D6A-40EA-9845-109F5FA9F1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E2C9BA-C89A-4572-AAC1-0425EE4F34A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E2C9BA-C89A-4572-AAC1-0425EE4F34A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E2C9BA-C89A-4572-AAC1-0425EE4F34A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E2C9BA-C89A-4572-AAC1-0425EE4F34A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12647E0-0512-445C-97F8-1E038E5D4B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12647E0-0512-445C-97F8-1E038E5D4B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12647E0-0512-445C-97F8-1E038E5D4B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12647E0-0512-445C-97F8-1E038E5D4B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E436F9D6-89D6-46E2-8779-C650561E4B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E436F9D6-89D6-46E2-8779-C650561E4B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E436F9D6-89D6-46E2-8779-C650561E4B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E436F9D6-89D6-46E2-8779-C650561E4B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A94CE647-47C5-47CB-9DF4-4F230B891993}
+	EndGlobalSection
+EndGlobal
