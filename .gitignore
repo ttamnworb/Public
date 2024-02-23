@@ -7,3 +7,7 @@ Release/
 obj/
 bin/
 packages/
+*.user
+*.suo
+*.opt
+*.plg
